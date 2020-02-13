@@ -10,4 +10,4 @@ This README is a list of these problems.
 
 ## Problems Solved
 
-### 01 Standard Library 'getpass' cannot be used in PyCharm
+### 01  Standard Library 'getpass' cannot be used in PyCharm
