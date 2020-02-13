@@ -6,6 +6,8 @@ This README is a list of these problems.
 
 ## Problems Found and Unsolved
 
+### 02  Pygame cannot be installed successfully under Python3.9.1_alpha
+
 
 
 ## Problems Solved
