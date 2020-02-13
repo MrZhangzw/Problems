@@ -1,4 +1,4 @@
-def win_getpass(prompt='Password: ', stream=None):
+def win_getpass(prompt='Password: ', stream=None): # Lib_getpass Line72
     """Prompt for password with echo off, using Windows getch()."""
     if sys.stdin is not sys.__stdin__: 
         # 调试1：VScode,PyCharm的stdin判断是is,都跳过了此if
