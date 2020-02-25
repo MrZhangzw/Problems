@@ -5,3 +5,4 @@ I don't know whether it's the problem of compatibility or not.
 I have already upgrated my pip and setuptools, but the terminal still gives me an ERROR Message:
     ERROR: Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output.
 '''
+# 2020.02.25 After I got back to stable version Python3.8, it can be installed successfully.
